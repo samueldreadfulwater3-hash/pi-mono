@@ -1,4 +1,27 @@
-<p align="center">
+{
+  "coinbase_fee": {
+    "currency": "<string>",
+    "value": "<string>"
+  },
+  "network_fee": {
+    "currency": "<string>",
+    "value": "<string>"
+  },
+  "onramp_url": "<string>",
+  "payment_subtotal": {
+    "currency": "<string>",
+    "value": "<string>"
+  },
+  "payment_total": {
+    "currency": "<string>",
+    "value": "<string>"
+  },
+  "purchase_amount": {
+    "currency": "<string>",
+    "value": "<string>"
+  },
+  "quote_id": "<string>"
+}<p align="center">
   <a href="https://shittycodingagent.ai">
     <img src="https://shittycodingagent.ai/logo.svg" alt="pi logo" width="128">
   </a>
