@@ -33,7 +33,7 @@
 		"openai": "6.10.0",
 		"partial-json": "^0.1.7",
 		"proxy-agent": "^6.5.0",
-		"undici": "^7.19.1",
+		"undici": "^7.24.0",
 		"zod-to-json-schema": "^3.24.6"
 	},
 	"keywords": [
